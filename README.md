@@ -2,7 +2,7 @@
 GLSL Shader pack for Plex HTPC/Plex Media Player
 # Installation:
 just copy the "Shaders" folder and "input.conf" to "%LOCALAPPDATA%\Plex HTPC\shaders" or "%LOCALAPPDATA%\Plex\shaders" (Windows)
-(for MacOS: "~/Library/Application Support/Plex/shaders" or "~/Library/Application Support/Plex HTPC/shaders")
+(for MacOS: "/Library/Application Support/Plex/shaders" or "/Library/Application Support/Plex HTPC/shaders")
 
  # Usage:
 
