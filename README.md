@@ -45,7 +45,7 @@ glsl-shaders="~~/shaders/SSimSuperRes-mitchell.glsl"
 ```
 replace the shaders with the ones you wish to use 
 
-optionally, use a semicolon (;) to use multiple filters at once:
+optionally, use a semicolon (;) to load multiple filters at once:
 ```
 #enable shader(s) on startup (Filmgrain + SSimSuperRes-mitchell)
 glsl-shaders="~~/shaders/filmgrain-lighter.glsl;~~/shaders/SSimSuperRes-mitchell.glsl"
