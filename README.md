@@ -37,7 +37,7 @@ just copy the "Shaders" folder and "input.conf" to "%LOCALAPPDATA%\Plex HTPC\sha
  ALT + 9 : Filmgrain (Heavy) + SSimSuperRes-Mitchell (Upscale/sharpener)
 
  # Load on startup
- if you want to enable a shader by default when you open the app, create an "mpv.conf" in the same directory as "input.conf"
+ if you want to enable a shader by default when you open Plex, create an "mpv.conf" in the same directory as "input.conf"
  and edit it like so:
 ```
 #enable shader(s) on startup (SSimSuperRes-mitchell)
