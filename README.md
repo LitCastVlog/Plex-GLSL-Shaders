@@ -14,9 +14,9 @@ just copy the "Shaders" folder and "input.conf" to "%LOCALAPPDATA%\Plex HTPC\sha
  
  CTRL + 7 : FilmGrain
  
- CTRL + 8 : Filmgrain (Light)
+ CTRL + 8 : Filmgrain (Light) + SSimSuperRes-Mitchell (Upscale/sharpener)
  
- CTRL + 9 : Filmgrain + SSimSuperResolution-Mitchell (Upscale/sharpener)
+ CTRL + 9 : Filmgrain + SSimSuperRes-Mitchell (Upscale/sharpener)
  
  CTRL + - : CRT Simulator (Brighter)
  
@@ -30,8 +30,8 @@ just copy the "Shaders" folder and "input.conf" to "%LOCALAPPDATA%\Plex HTPC\sha
  
  ALT + 6 : Make My GPU Hurt Ultra (FSRCNNX+SSimSuperRes-mitchell+KrigBilateral)
  
- ALT + 7 : FilmGrain (Lighter)
+ ALT + 7 : FilmGrain (Lighter) + SSimSuperRes-Mitchell (Upscale/sharpener)
  
- ALT + 8 : Filmgrain (Medium)
+ ALT + 8 : Filmgrain (Medium) + SSimSuperRes-Mitchell (Upscale/sharpener)
  
- ALT + 9 : Filmgrain (Heavy)
+ ALT + 9 : Filmgrain (Heavy) + SSimSuperRes-Mitchell (Upscale/sharpener)
