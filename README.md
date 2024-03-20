@@ -5,8 +5,8 @@ just copy the "Shaders" folder and "input.conf" to "%LOCALAPPDATA%\Plex HTPC\sha
 
 (for MacOS: "/Library/Application Support/Plex/shaders" or "/Library/Application Support/Plex HTPC/shaders")
 
-![CRT Filter](https://preview.redd.it/ddjrxa4lwyoc1.png?width=2560&format=png&auto=webp&s=e03aaba9dd0eda39e1ac9334be4bf6aa409e3880)
-![FilmGrain Filter](https://preview.redd.it/xx7jkna2fxoc1.png?width=2560&format=png&auto=webp&s=467aa63a45c1875d5f773faea19dad8857baeaab)
+![CRT Filter](http://images2.imgbox.com/6a/eb/rjMKMTAk_o.jpg)
+![FilmGrain Filter](https://images2.imgbox.com/df/5b/5MyLLNAP_o.png)
  # Usage:
 
  Shader Hotkeys are:
