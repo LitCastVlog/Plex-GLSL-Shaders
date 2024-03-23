@@ -7,7 +7,7 @@ just copy the "Shaders" folder and "input.conf" to "%LOCALAPPDATA%\Plex HTPC\sha
 
 ![CRT Filter](http://images2.imgbox.com/6a/eb/rjMKMTAk_o.jpg)
 ![FilmGrain Filter](https://images2.imgbox.com/df/5b/5MyLLNAP_o.png)
-![Make My GPU Hurt 2](http://images2.imgbox.com/2e/8c/19LYPeuW_o.png)
+![Make My GPU Hurt 2](https://images2.imgbox.com/9d/cf/MGP63ldy_o.png)
  # Usage:
 
  Shader Hotkeys are:
