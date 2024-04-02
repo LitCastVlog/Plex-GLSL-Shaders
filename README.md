@@ -1,9 +1,9 @@
 # Plex GLSL Shaders (Video Filters)
 GLSL Shader pack for Plex HTPC/Plex Media Player
 # Installation:
-just copy the "Shaders" folder and "input.conf" to "%LOCALAPPDATA%\Plex HTPC\shaders" or "%LOCALAPPDATA%\Plex\shaders" (Windows)
+just copy the `Shaders` folder and `input.conf` to `%LOCALAPPDATA%\Plex HTPC\shaders` or `%LOCALAPPDATA%\Plex\shaders` (Windows)
 
-(for MacOS: "/Library/Application Support/Plex/shaders" or "/Library/Application Support/Plex HTPC/shaders")
+(for MacOS: `/Library/Application Support/Plex/shaders` or `/Library/Application Support/Plex HTPC/shaders`)
 
 ![CRT Filter](http://images2.imgbox.com/6a/eb/rjMKMTAk_o.jpg)
 ![FilmGrain Filter](https://images2.imgbox.com/df/5b/5MyLLNAP_o.png)
@@ -39,7 +39,7 @@ just copy the "Shaders" folder and "input.conf" to "%LOCALAPPDATA%\Plex HTPC\sha
  ALT + 9 : Filmgrain (Heavy) + SSimSuperRes-Mitchell (Upscale/sharpener)
 
  # Load on startup
- if you want to enable a shader by default when you open Plex, create an "mpv.conf" in the same directory as "input.conf"
+ if you want to enable a shader by default when you open Plex, create an `mpv.conf` in the same directory as `input.conf`
  and edit it like so:
 ```
 #enable shader(s) on startup (SSimSuperRes-mitchell)
@@ -47,7 +47,7 @@ glsl-shaders="~~/shaders/SSimSuperRes-mitchell.glsl"
 ```
 replace the shaders with the ones you wish to use 
 
-optionally, use a semicolon (;) to load multiple filters at once:
+optionally, use a semicolon `;` to load multiple filters at once:
 ```
 #enable shader(s) on startup (Filmgrain + SSimSuperRes-mitchell)
 glsl-shaders="~~/shaders/filmgrain-lighter.glsl;~~/shaders/SSimSuperRes-mitchell.glsl"
