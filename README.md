@@ -12,6 +12,10 @@ just copy the `Shaders` folder and `input.conf` to `%LOCALAPPDATA%\Plex HTPC\sha
 
  Shader Hotkeys are:
 
+ CTRL + 0 : Clear all shaders
+
+ ALT + 0 : Animation/Cartoon Upscale (Anime4k+Enhanced FSRCNNX) (Upscale/Sharpen/Denoise)
+
  CTRL + 1-6 : Anime4k 
  
  CTRL + 7 : FilmGrain
@@ -24,8 +28,6 @@ just copy the `Shaders` folder and `input.conf` to `%LOCALAPPDATA%\Plex HTPC\sha
  
  CTRL + = : CRT Simulator (+Filmgrain)
  
- CTRL + 0 : Clear all shaders
-
  ALT + 1-4 : CRT alternative modes (crt-lottes shadow mask setting)
  
  ALT + 5 : Make My GPU Hurt (FSRCNNX+KrigBilateral)
