@@ -6,7 +6,7 @@ just copy the `Shaders` folder and `input.conf` to `%LOCALAPPDATA%\Plex HTPC\sha
 (for MacOS: `/Library/Application Support/Plex/shaders` or `/Library/Application Support/Plex HTPC/shaders`)
 
 ![CRT Filter](http://images2.imgbox.com/6a/eb/rjMKMTAk_o.jpg)
-![FilmGrain Filter](https://images2.imgbox.com/df/5b/5MyLLNAP_o.png)
+![Animation Filter](https://i.ibb.co/r5QWtLM/ffdsffds.jpg)
 ![Make My GPU Hurt 2](https://images2.imgbox.com/9d/cf/MGP63ldy_o.png)
  # Usage:
 
