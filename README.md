@@ -1,5 +1,5 @@
 # Plex GLSL Shaders (Video Filters)
-GLSL Shader pack for Plex HTPC/Plex Media Player (Realtime Upscaling, CRT, FilmGrain)
+GLSL Shader pack for Plex HTPC/Plex Media Player/MPV (Realtime Upscaling, CRT, FilmGrain)
 # Installation:
 just copy the `Shaders` folder and `input.conf` to `%LOCALAPPDATA%\Plex HTPC\shaders` or `%LOCALAPPDATA%\Plex\shaders` (Windows)
 
@@ -43,15 +43,13 @@ just copy the `Shaders` folder and `input.conf` to `%LOCALAPPDATA%\Plex HTPC\sha
  
 
  # Load on startup
- if you want to enable a shader by default when you open Plex, create an `mpv.conf` in the same directory as `input.conf`
+ to enable a shader by default when you open Plex, create an `mpv.conf` in the same directory as `input.conf`
  and edit it like so:
 ```
 #enable shader(s) on startup (SSimSuperRes-mitchell)
 glsl-shaders="~~/shaders/SSimSuperRes-mitchell.glsl"
 ```
-replace the shaders with the ones you wish to use 
-
-optionally, use a semicolon `;` to load multiple filters at once:
+optionally, use a semicolon `;` to load multiple shaders:
 ```
 #enable shader(s) on startup (Filmgrain + SSimSuperRes-mitchell)
 glsl-shaders="~~/shaders/filmgrain-lighter.glsl;~~/shaders/SSimSuperRes-mitchell.glsl"
