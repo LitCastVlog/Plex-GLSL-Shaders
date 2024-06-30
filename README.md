@@ -15,7 +15,7 @@ just copy the `Shaders` folder and `input.conf` to `%LOCALAPPDATA%\Plex HTPC\sha
 
  CTRL + 0 : Clear all shaders
 
- ALT + 0 : Animation/Cartoon Upscale (Anime4k+Enhanced FSRCNNX) (Upscale/Sharpen/Denoise)
+ ALT + 0 : Animation/Cartoon Upscale (Anime4k Restore+Enhanced FSRCNNX) (Upscale/Sharpen/Denoise)
 
  CTRL + 1-6 : [Anime4K](https://github.com/bloc97/Anime4K) shaders by bloc97 
  
