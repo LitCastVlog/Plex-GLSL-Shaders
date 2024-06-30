@@ -17,7 +17,7 @@ just copy the `Shaders` folder and `input.conf` to `%LOCALAPPDATA%\Plex HTPC\sha
 
  ALT + 0 : Animation/Cartoon Upscale (Anime4k+Enhanced FSRCNNX) (Upscale/Sharpen/Denoise)
 
- CTRL + 1-6 : Anime4k 
+ CTRL + 1-6 : [Anime4K](https://github.com/bloc97/Anime4K) shaders by bloc97 
  
  CTRL + 7 : FilmGrain
  
@@ -40,6 +40,7 @@ just copy the `Shaders` folder and `input.conf` to `%LOCALAPPDATA%\Plex HTPC\sha
  ALT + 8 : Filmgrain (Medium) + SSimSuperRes-Mitchell (Upscale/sharpener)
  
  ALT + 9 : Filmgrain (Heavy) + SSimSuperRes-Mitchell (Upscale/sharpener)
+ 
 
  # Load on startup
  if you want to enable a shader by default when you open Plex, create an `mpv.conf` in the same directory as `input.conf`
