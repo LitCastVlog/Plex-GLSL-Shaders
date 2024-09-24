@@ -8,7 +8,7 @@ just copy the `Shaders` folder and `input.conf` to `%LOCALAPPDATA%\Plex HTPC\sha
 ![CRT Filter](http://images2.imgbox.com/6a/eb/rjMKMTAk_o.jpg)
 ![Animation Filter](https://i.ibb.co/r5QWtLM/ffdsffds.jpg)
 ![Animation Filter](https://i.ibb.co/181PScy/gfdgfd.jpg)
-![Make My GPU Hurt 2](https://images2.imgbox.com/9d/cf/MGP63ldy_o.png)
+![Make My GPU Hurt 2](https://github.com/LitCastVlog/Plex-GLSL-Shaders/blob/main/Screenshot_4k.png)
  # Usage:
 
  Shader Hotkeys are:
