@@ -1,5 +1,7 @@
 # Plex GLSL Shaders (Video Filters)
 GLSL Shader pack for Plex HTPC/Plex Media Player/MPV (Realtime Upscaling, CRT, FilmGrain)
+
+Also works on Jellyfin with [MPV Shim](https://github.com/jellyfin/jellyfin-mpv-shim)
 # Installation:
 just copy the `Shaders` folder and `input.conf` to `%LOCALAPPDATA%\Plex HTPC\shaders` or `%LOCALAPPDATA%\Plex\shaders` (Windows)
 
